@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "./node_modules/.bin/marp -w -s",
+    "build:pdf": "./node_modules/.bin/marp --pdf"
+  },
+  "author": "Mikito Otomo",
+  "license": "ISC",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^3.0.2"
+  }
+}
