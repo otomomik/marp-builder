@@ -6,6 +6,7 @@
   "author": "Mikito Otomo",
   "license": "ISC",
   "devDependencies": {
-    "@marp-team/marp-cli": "^3.0.2"
+    "@marp-team/marp-cli": "^3.0.2",
+    "markdown-it-plantuml": "^1.4.1"
   }
 }
